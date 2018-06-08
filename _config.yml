@@ -1,7 +1,7 @@
 # Site settings
 theme: jekyll-theme-modernist
 title: "#N"
-baseUrl: ""
+baseurl: ""
 url: ""
 
 # Links
